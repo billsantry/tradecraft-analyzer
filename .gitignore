@@ -208,3 +208,13 @@ __marimo__/
 
 # Mac system files
 .DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Mac
+.DS_Store
