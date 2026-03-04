@@ -218,3 +218,6 @@ __pycache__/
 
 # Mac
 .DS_Store
+
+# Python virtual environment
+venv/
